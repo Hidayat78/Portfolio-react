@@ -36,7 +36,7 @@ export const Skills = () => {
             <div className="skill-bx wow zoomIn">
               <h2>Skills</h2>
               <p>
-                Software Developwe at SOFTMIND Infotech PVT LTD. is simply dummy
+                Software Developer at SOFTMIND Infotech PVT LTD. is simply dummy
                 text of the printing and typesetting industry.<br></br> Lorem
                 Ipsum has been the industry's standard dummy text.
               </p>
