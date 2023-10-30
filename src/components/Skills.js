@@ -45,10 +45,11 @@ export const Skills = () => {
                 infinite={true}
                 className="owl-carousel owl-theme skill-slider"
               >
-                <div className="item">
+                    <div className="item">
                   <img src={meter1} alt="Image" />
-                  <h5>Web Apps Development</h5>
+                  <h5>Next Js</h5>
                 </div>
+              
                 <div className="item">
                   <img src={meter2} alt="Image" />
                   <h5>Redux tk</h5>
@@ -59,7 +60,7 @@ export const Skills = () => {
                 </div>
                 <div className="item">
                   <img src={meter1} alt="Image" />
-                  <h5>Next Js</h5>
+                  <h5>Web Apps Development</h5>
                 </div>
               </Carousel>
             </div>
